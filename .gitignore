@@ -11,3 +11,5 @@ dist/
 *.code-workspace
 *.sublime-project
 *.sublime-workspace
+
+.env
