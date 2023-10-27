@@ -15,5 +15,9 @@
     "ts-node": "^10.9.1",
     "tslib": "^2.6.2",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "langchain": "^0.0.173"
   }
 }
